@@ -1,4 +1,5 @@
 """
 Types that do not exists withing vgmdb
 """
-class TrackInfo
+class TrackInfo:
+    """TODO"""

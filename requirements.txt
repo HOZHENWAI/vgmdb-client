@@ -1,2 +1,5 @@
-requests
 asyncio
+beautifulsoup4
+langdetect
+lxml
+requests
